@@ -144,3 +144,4 @@ Received Import Request.
   path: Assets/Scrpits/Target.cs
   artifactKey: Guid(0ed4165aa575a47e08981e4d5231d8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scrpits/Target.cs using Guid(0ed4165aa575a47e08981e4d5231d8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fab392fbe6992604745da87a6917f36') in 0.272603 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
