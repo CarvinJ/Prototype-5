@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManger : MonoBehaviour
 {
-    private float spawnRate = 1.0f;
+    private float spawnsRate = 1.0f;
     // Start is called before the first frame update
     void Start()
     {
