@@ -174,3 +174,4 @@ Received Import Request.
   path: Assets/Scrpits/GameManger.cs
   artifactKey: Guid(d4171dc16284c462e8116a4a92127d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scrpits/GameManger.cs using Guid(d4171dc16284c462e8116a4a92127d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0dac2e71c94661aef5c84b26a21b4d9') in 0.001471 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
